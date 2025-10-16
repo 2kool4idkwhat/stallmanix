@@ -2,7 +2,7 @@ package main
 
 // List of GNU packages, based on https://en.wikipedia.org/wiki/List_of_GNU_packages
 //
-// Slashes `-` are added around the names to avoid accidentally counting non-GNU
+// Dashes `-` are added around the names to avoid accidentally counting non-GNU
 // packages with similar names
 var listOfGnuPkgs = []string{
 	// "base system"
